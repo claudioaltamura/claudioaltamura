@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+"Release 1.0 is the beginning of your software's life, not the end of the project." 😄
+
 <!--
 **claudioaltamura/claudioaltamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
