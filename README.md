@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Architect and Developer (all things #Java and more) from Hamburg (Germany). You can find more information on my [blog](https://claudioaltamura.de) or on [twitter](https://twitter.com/altamuraclaudio) 😄.
+I'm a Software Architect and Developer (all things #java and more) from Hamburg (Germany). You can find more information on my [blog](https://claudioaltamura.de) or on [twitter](https://twitter.com/altamuraclaudio) 😄.
 
 <!--
 **claudioaltamura/claudioaltamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
