@@ -3,7 +3,7 @@
 I'm a Software Architect and Developer (all things about #java and more) from Hamburg (Germany). You can follow me on 😄
 
 * [Blog](https://claudioaltamura.de)
-* [LinkedIn](https://www.linkedin.com/in/claudio-altamura-0289383/)
+* [Linkedin](https://www.linkedin.com/in/claudio-altamura-0289383/)
 
 <!--
 **claudioaltamura/claudioaltamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
