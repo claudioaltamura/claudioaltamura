@@ -5,6 +5,11 @@ I'm a Software Architect and Developer (all things about #java and more) from Ha
 * [Blog](https://claudioaltamura.de)
 * [Linkedin](https://www.linkedin.com/in/claudio-altamura-0289383/)
 
+<img align="left" alt="Claudio Altamura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=claudioaltamura&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
+
+<img alt="Claudio Altamura's Github Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioaltamura&count_private=true&show_icons=true&hide_border=true&theme=buefy&layout=compact" />
+
+
 <!--
 **claudioaltamura/claudioaltamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
