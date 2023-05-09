@@ -7,6 +7,7 @@ I'm a Software Architect and Developer (all things about #java and more) from Ha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioaltamura&hide=css,dockerfile,freemarker,html)](https://github.com/claudioaltamura/github-readme-stats)
 
+[![openapi-tools](https://github-readme-stats.vercel.app/api/pin/?username=claudioaltamura&repo=openapi-tools)](https://github.com/claudioaltamura/openapi-tools)
 [![traefik-proxy-nodejs-example](https://github-readme-stats.vercel.app/api/pin/?username=claudioaltamura&repo=traefik-proxy-nodejs-example)](https://github.com/claudioaltamura/traefik-proxy-nodejs-example)
 
 <!--![Claudio Altamura's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudioaltamura&show_icons=true&theme=transparent)-->
