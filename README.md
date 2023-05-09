@@ -5,12 +5,10 @@ I'm a Software Architect and Developer (all things about #java and more) from Ha
 * [Blog](https://claudioaltamura.de)
 * [Linkedin](https://www.linkedin.com/in/claudio-altamura-0289383/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioaltamura&hide=css,dockerfile,freemarker,html)](https://github.com/claudioaltamura/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioaltamura&hide=css,dockerfile,freemarker,html&show_icons=true&hide_border=true&theme=buefy&layout=compact)](https://github.com/claudioaltamura/github-readme-stats)
 
 [![openapi-tools](https://github-readme-stats.vercel.app/api/pin/?username=claudioaltamura&repo=openapi-tools)](https://github.com/claudioaltamura/openapi-tools)
 [![traefik-proxy-nodejs-example](https://github-readme-stats.vercel.app/api/pin/?username=claudioaltamura&repo=traefik-proxy-nodejs-example)](https://github.com/claudioaltamura/traefik-proxy-nodejs-example)
-
-<!--![Claudio Altamura's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudioaltamura&show_icons=true&theme=transparent)-->
 
 <!--
 <img align="left" alt="Claudio Altamura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=claudioaltamura&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
