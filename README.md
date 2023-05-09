@@ -5,7 +5,7 @@ I'm a Software Architect and Developer (all things about #java and more) from Ha
 * [Blog](https://claudioaltamura.de)
 * [Linkedin](https://www.linkedin.com/in/claudio-altamura-0289383/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioaltamura&hide=css,html)](https://github.com/claudioaltamura/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioaltamura&hide=css,freemaker,html)](https://github.com/claudioaltamura/github-readme-stats)
 
 <!--![Claudio Altamura's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudioaltamura&show_icons=true&theme=transparent)-->
 
