@@ -1,11 +1,28 @@
 ### Hi there 👋
 
-I'm a Software Architect and Developer (all things about #java and more) from Hamburg (Germany). You can follow me on 😄
+I'm a Software Architect and Developer (all things about #java and more) from Hamburg (Germany). 
 
+You can contact me at:
+
+[![Linkedin](https://img.shields.io/badge/-claudioaltamura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-altamura-0289383/)](https://www.linkedin.com/in/claudio-altamura-0289383/)&nbsp;
+[![Blog](https://img.shields.io/badge/Blog-claudioaltamura.de-brightgreen)](https://claudioaltamura.de/)
+
+## ✅ Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioaltamura&layout=compact)](https://github.com/claudioaltamura)
+
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=claudioaltamura&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=claudioaltamura&hide_border=true&theme=radical" />
+</p>
+
+
+<!--
 * [Blog](https://claudioaltamura.de)
 * [Linkedin](https://www.linkedin.com/in/claudio-altamura-0289383/)
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioaltamura&hide=css,dockerfile,freemarker,html&show_icons=true&hide_border=true&theme=buefy&layout=compact)](https://github.com/claudioaltamura/github-readme-stats)
 
 [![openapi-tools](https://github-readme-stats.vercel.app/api/pin/?username=claudioaltamura&repo=openapi-tools)](https://github.com/claudioaltamura/openapi-tools)
