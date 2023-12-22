@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm a Software Architect and Developer (all things about #java and more) from Hamburg (Germany). 
+I'm a Software Architect and Developer (all things about #api #backend #cloud with java and more) from Hamburg (Germany). 
 
 You can contact me at:
 
