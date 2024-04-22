@@ -4,7 +4,8 @@ I'm a Software Architect and Developer (all things about #api #backend #cloud wi
 
 You can contact me at:
 
-[![Linkedin](https://img.shields.io/badge/-claudioaltamura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-altamura-0289383/)](https://www.linkedin.com/in/claudio-altamura-0289383/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-claudioaltamura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-altamura-0289383/)](https://www.linkedin.com/in/claudio-altamura-0289383/)
+
 [![Blog](https://img.shields.io/badge/Blog-claudioaltamura.de-brightgreen)](https://claudioaltamura.de/)
 
 ## ✅ Languages
