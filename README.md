@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-- I'm a Software Developer
+- I love building things
 - I blog all things about #api #backend #cloud with java and more: https://claudioaltamura.de/
 - You can contact me at: [Linkedin](https://www.linkedin.com/in/claudio-altamura-0289383/)
   
