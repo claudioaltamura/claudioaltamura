@@ -1,12 +1,8 @@
 ## 👋 Hi there!
 
-I'm a Software Developer (all things about #api #backend #cloud with java and more) from Hamburg, Germany. 
-
-You can contact me at:
-
-[![Linkedin](https://img.shields.io/badge/-claudioaltamura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-altamura-0289383/)](https://www.linkedin.com/in/claudio-altamura-0289383/)
-
-[![Blog](https://img.shields.io/badge/Blog-claudioaltamura.de-brightgreen)](https://claudioaltamura.de/)
+- I'm a Software Developer
+- I blog all things about #api #backend #cloud with java and more): [![Blog](https://img.shields.io/badge/Blog-claudioaltamura.de-brightgreen)](https://claudioaltamura.de/)
+- You can contact me at: [![Linkedin](https://img.shields.io/badge/-claudioaltamura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-altamura-0289383/)](https://www.linkedin.com/in/claudio-altamura-0289383/)
 
 ## ✅ Languages
 
